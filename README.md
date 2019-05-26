@@ -1,6 +1,6 @@
 # AWS by numbers
 
-AWS is an ever growing ecosystem of services which abstract away the underlying building blocks of applications. The [official well architected guide](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) provides a deeper understanding of how to design fault-tolerant applications. However in the early stages of application design one needs to do quick [back of the envelope](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html), to understand the trade offs while designing an application.
+AWS is an ever growing ecosystem of services which abstract away the underlying building blocks of applications. The [official well architected guide](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) provides a deeper understanding of how to design fault-tolerant applications. However in the early stages of application design one needs to do quick [back of the envelope](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html), shortened as *bote*, to understand the trade offs while designing an application.
 
 This repository intends to be an aggregation of numbers that are fundamental characteristics of each serivce that can help shorten the time for design deicisions, cost estimation, or prevent failures due to default account limits.
 
